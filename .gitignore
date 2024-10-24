@@ -1,2 +1,2 @@
-#ignore all files labelled as a text file, for there be API keys:
-*.txt
+# Ignore environment files containing API keys
+.env
