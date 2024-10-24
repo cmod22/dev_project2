@@ -2,8 +2,9 @@
 
 Developer credits:
 
-Samuel - Github management, Hotel recommendation API
-Anakin - Attractions recommendation API
-Connor - Location Weather API
-Collin - Presentation, main function
+Samuel - Github management, Main Function
+Anakin - Attractions recommendation and Weather API
+Connor - Main function
+Collin - Presentation
 Alex - Restaraunt Recommendation API
+
