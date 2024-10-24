@@ -2,9 +2,10 @@
 
 Developer credits:
 
-Samuel - Github management, Main Function
-Anakin - Attractions recommendation and Weather API
-Connor - Main function
-Collin - Presentation
-Alex - Restaraunt Recommendation API
-
+Samuel - Github management, Main Function<br>
+Anakin - Attractions recommendation and Weather API<br>
+Connor - Main function<br>
+Collin - Presentation<br>
+Alex - Restaraunt Recommendation API<br>
+<br>
+Our function 
